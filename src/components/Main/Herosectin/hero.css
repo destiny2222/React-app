@@ -1,0 +1,33 @@
+.hero{
+    background-image: url('../../../assets/img/things-you-need.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding:10rem   9rem;
+}
+
+.hero-content h3{
+    color: #fff;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 50px;
+    inline-size: 372px;
+}
+
+.btn-theme{
+   background-color: #56c1f3;
+   padding: 10px  40px;
+   color: #fff;
+   border-radius: 5px;
+}
+
+.btn-discover{
+    border: 2px solid #56c1f3;
+    padding: 10px  40px;
+    color: #000;
+    border-radius: 5px;
+}
+
+.ml-4{
+    margin-left: 30px;
+}
